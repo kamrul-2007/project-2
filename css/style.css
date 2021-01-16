@@ -234,6 +234,7 @@ p::first-letter {
     line-height: 50px;
     display: inline-block;
     border-radius: 10px;
+	transition: all linear 0.5s;
 }
 
 .banner .overlay .banner_content .banner_text ul span > a {
@@ -245,6 +246,7 @@ p::first-letter {
     line-height: 50px;
     display: inline-block;
     border-radius: 10px;
+	transition: all linear 0.5s;
 }
 
 .banner .overlay .banner_content .banner_text ul > a:hover {
